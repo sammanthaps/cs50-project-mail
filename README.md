@@ -1,4 +1,4 @@
-# CS50'S Web Programming with Python and JavaScript - Mail
+# Mail - CS50'S Web Programming with Python and JavaScript
 
 Design a front-end for an email client that makes API calls to send and receive emails.
 
